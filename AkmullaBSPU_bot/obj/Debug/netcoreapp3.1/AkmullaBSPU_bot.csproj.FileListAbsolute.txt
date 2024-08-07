@@ -1,0 +1,54 @@
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.exe
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.deps.json
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.runtimeconfig.json
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.runtimeconfig.dev.json
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.pdb
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.csproj.AssemblyReference.cache
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.AssemblyInfoInputs.cache
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.AssemblyInfo.cs
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.csproj.CoreCompileInputs.cache
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.csproj.CopyComplete
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.pdb
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.genruntimeconfig.cache
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\SiBro\source\repos\AkmullaBSPU_bot\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.csproj.ResolveComReference.cache
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.exe
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.deps.json
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.runtimeconfig.json
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.runtimeconfig.dev.json
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\AkmullaBSPU_bot.pdb
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.csproj.AssemblyReference.cache
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.csproj.ResolveComReference.cache
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.AssemblyInfoInputs.cache
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.AssemblyInfo.cs
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.csproj.CoreCompileInputs.cache
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaB.A705CBC0.Up2Date
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.dll
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.pdb
+C:\Users\leysa\Desktop\Новая папка (2)\AkmullaBSPU_bot\obj\Debug\netcoreapp3.1\AkmullaBSPU_bot.genruntimeconfig.cache
